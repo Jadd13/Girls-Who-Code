@@ -2,15 +2,15 @@
 About us
 
 <body>
-  <h1>!Welcome!</h1>
-  <div id="introduction">
-    <h2>About Girls Who Code</h2>
-    <p> Girls Who Code is a nonprofit organization which aims to support and increase the number of women in computer science. The organization is working to close the gender gap in technology and<strong> change the image</strong> of what a programmer looks like and does. </strong>.<br /><br />We worked very hard on this.</p>
-    <h3>Species</h3>
+  <h1>!Welcome!</h1>
+  <div id="introduction">
+    <h2>About Girls Who Code</h2>
+    <p> Girls Who Code is a nonprofit organization which aims to support and increase the number of women in computer science. The organization is working to close the gender gap in technology and<strong> change the image</strong> of what a programmer looks like and does. </strong>.<br /><br />We worked very hard on this.</p>
+    <h3>Who worked hard on this?</h3>
     <ul>
-      <li>Arctos</li>
-      <li>Collarus</li>
-      <li>Horribilis</li>
+      <li>Cynthia</li>
+      <li>Fatima</li>
+      <li>Elizabeth</li>
       <li>Nelsoni (extinct)</li>
     </ul>
     <h3>Features</h3>
